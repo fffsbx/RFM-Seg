@@ -1,6 +1,6 @@
 # RFM-Seg
 | pretrain_weights | Model weight | 
-| --- | --- | ---: |
+| --- | ---: |
 | rest_lite.pth | 链接: https://pan.baidu.com/s/1fHq_UfOykUNV-k44R04EhA 提取码: 2580 |
 | stseg_base.pth | 链接: https://pan.baidu.com/s/1iExsyIvQsb_4MKFG8-ufcg 提取码: 2580 |
 | stseg_small.pth | 链接: https://pan.baidu.com/s/1iExsyIvQsb_4MKFG8-ufcg 提取码: 2580 |
